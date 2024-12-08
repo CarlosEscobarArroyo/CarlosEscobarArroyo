@@ -1,6 +1,6 @@
 ¡Hola! Soy Carlos Escobar, estudiante de Ingeniería de Sistemas en la Universidad de Lima, actualmente cursando el séptimo ciclo. Estoy en camino a especializarme en ciencia de datos y machine learning, con un enfoque en la toma de decisiones empresariales basadas en datos.
 
-💡 Soy un apasionado del aprendizaje continuo y estoy constantemente perfeccionando mis habilidades. Actualmente formo parte del programa de certificado profesional de Ciencia de Datos del MITxPRO y complemento mi formación con cursos en Coursera.
+💡 Soy un apasionado del aprendizaje continuo y estoy constantemente perfeccionando mis habilidades. Actualmente formo parte del programa profesional de Data Science and Analytics del MITxPRO y complemento mi formación con cursos en Coursera.
 
 🔧 Tengo experiencia práctica con herramientas como Python, SQL, Power BI y Excel, además de sólidos conocimientos en manejo de bases de datos. Mis intereses incluyen la estadística avanzada, la visualización de datos y la implementación de modelos de machine learning.
 
