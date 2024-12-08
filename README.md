@@ -1,10 +1,10 @@
-👋 ¡Hola! Soy Carlos Escobar, estudiante de Ingeniería de Sistemas en la Universidad de Lima, actualmente cursando el séptimo ciclo. Estoy en camino a especializarme en ciencia de datos y machine learning, con un enfoque claro en la toma de decisiones empresariales basadas en datos.
+¡Hola! Soy Carlos Escobar, estudiante de Ingeniería de Sistemas en la Universidad de Lima, actualmente cursando el séptimo ciclo. Estoy en camino a especializarme en ciencia de datos y machine learning, con un enfoque en la toma de decisiones empresariales basadas en datos.
 
-💡 Soy un apasionado del aprendizaje continuo y estoy constantemente perfeccionando mis habilidades. Actualmente formo parte del programa de certificado profesional de Ciencia de Datos del MITxPRO y realizo cursos en Coursera para complementar mi formación.
+💡 Soy un apasionado del aprendizaje continuo y estoy constantemente perfeccionando mis habilidades. Actualmente formo parte del programa de certificado profesional de Ciencia de Datos del MITxPRO y complemento mi formación con cursos en Coursera.
 
-🔧 Mis herramientas favoritas incluyen Python, SQL, Power BI y Excel, y tengo un fuerte interés en estadística avanzada, visualización de datos y la implementación de modelos de machine learning.
+🔧 Tengo experiencia práctica con herramientas como Python, SQL, Power BI y Excel, además de sólidos conocimientos en manejo de bases de datos. Mis intereses incluyen la estadística avanzada, la visualización de datos y la implementación de modelos de machine learning.
 
-🎯 Mi objetivo es convertirme en Data Scientist, donde pueda aplicar mi pasión por los datos para resolver problemas reales y generar impacto.
+🎯 Mi objetivo es convertirme en un Data Scientist, donde pueda aplicar mi pasión por los datos para resolver problemas reales y generar impacto.
 
 <!--
 **CarlosEscobarArroyo/CarlosEscobarArroyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
